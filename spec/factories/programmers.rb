@@ -1,4 +1,4 @@
-FactoryBot.define do
+FactoryGirl.define do
   factory :programmer do
     name 'Alan Turing'
     home_country 'United Kingdom'
