@@ -1,4 +1,4 @@
-sosource 'https://rubygems.org'
+source 'https://rubygems.org'
 
 gem 'sqlite3'
 
